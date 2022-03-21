@@ -16,3 +16,4 @@ checkButton = document.getElementById("check").onclick = function(){
     }
    
 };
+
